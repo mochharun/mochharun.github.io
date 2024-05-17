@@ -125,7 +125,7 @@ let allMusic = [
     src: "music-19"
   },
 {
-    name: "- Sendiri Lagi",
+    name: "Sendiri Lagi",
     artist: "BLINK ",
     img: "music-19",
     src: "music-19"
