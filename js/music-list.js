@@ -127,8 +127,8 @@ let allMusic = [
 {
     name: "Sendiri Lagi",
     artist: "BLINK ",
-    img: "music-19",
-    src: "music-19"
+    img: "music-20",
+    src: "music-20"
   },
   // like this paste it and remember to give comma after ending of this bracket }
   // {
