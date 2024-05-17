@@ -46,6 +46,12 @@ let allMusic = [
     img: "music-5",
     src: "music-5"
   },
+{
+    name: "At My Worst",
+    artist: "Pink Sweat",
+    img: "music-13",
+    src: "music-13"
+  },
   {
     name: "Love Yourself",
     artist: "Justin Bieber",
@@ -81,6 +87,48 @@ let allMusic = [
     artist: "Lobo",
     img: "music-11",
     src: "music-11"
+  },
+{
+    name: "Black and Yellow",
+    artist: "Wiz Khalifa ft. Snoop Dogg, Juicy J & T-Pain",
+    img: "music-14",
+    src: "music-14"
+  },
+  {
+    name: "Young, Wild and Free",
+    artist: "Snoop Dogg & Wiz Khalifa ft. Bruno Mars",
+    img: "music-15",
+    src: "music-15"
+  },
+{
+    name: "Masih Mencintamu",
+    artist: "Gruvi",
+    img: "music-16",
+    src: "music-16"
+  },
+{
+    name: "Buka Semangat Baru",
+    artist: "Ello Barry Ipank Lala Karmela",
+    img: "music-17",
+    src: "music-17"
+  },
+{
+    name: "BEBAS (OST. Bebas) ",
+    artist: "Iwa K Sheryl Sheinafia Maizura Agatha Pricilla & Cast",
+    img: "music-18",
+    src: "music-18"
+  },
+  {
+    name: "Diam Diam Suka",
+    artist: "Cherrybelle",
+    img: "music-19",
+    src: "music-19"
+  },
+{
+    name: "- Sendiri Lagi",
+    artist: "BLINK ",
+    img: "music-19",
+    src: "music-19"
   },
   // like this paste it and remember to give comma after ending of this bracket }
   // {
