@@ -88,6 +88,30 @@ let allMusic = [
     img: "music-11",
     src: "music-11"
   },
+ {
+    name: "All I Have To Do Is Dream",
+    artist: "The Everly Brothers",
+    img: "music-21",
+    src: "music-21"
+  },
+{
+    name: "Lemon Tree",
+    artist: "Fool's Garden",
+    img: "music-22",
+    src: "music-22"
+  },
+  {
+    name: "Sugar",
+    artist: "The Archies",
+    img: "music-23",
+    src: "music-23"
+  },
+ {
+    name: "Shalala lala",
+    artist: "Vengaboys",
+    img: "music-24",
+    src: "music-24"
+  },
 {
     name: "Black and Yellow",
     artist: "Wiz Khalifa ft. Snoop Dogg, Juicy J & T-Pain",
