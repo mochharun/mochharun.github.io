@@ -157,97 +157,97 @@ let allMusic = [
   {
     name: "Andrey Taulany",
     artist: "Cintailah istanaku",
-    img: "music-20",
+    img: "music-25",
     src: "music-25"
   },
   {
     name: "Ornito",
     artist: "Segala Bayangamu",
-    img: "music-18",
+    img: "music-26",
     src: "music-26"
   },
   {
     name: "Yangseku",
     artist: "Pujaan Hati",
-    img: "music-15",
+    img: "music-27",
     src: "music-27"
   },
    {
     name: "Caffeine",
     artist: "Hidupku Kan Damaikan Hatimu",
-    img: "music-18",
+    img: "music-28",
     src: "music-28"
   },
    {
     name: "Second Civil",
     artist: "Aku,Kau Dan Kenanganku",
-    img: "music-20",
+    img: "music-29",
     src: "music-29"
   },
    {
     name: "Andy Liany",
     artist: "Sanggupkah",
-    img: "music-3",
+    img: "music-30",
     src: "music-30"
   },
    {
     name: "Voodo",
     artist: "Bungaku Hilang",
-    img: "music-2",
+    img: "music-31",
     src: "music-31"
   },
    {
     name: "Sheila Majid",
     artist: "Sinara",
-    img: "music-3",
+    img: "music-32",
     src: "music-32"
   },
    {
     name: "Sheila Majid",
     artist: "Dia",
-    img: "music-18",
+    img: "music-33",
     src: "music-33"
   },
    {
     name: "Tetty Kadi",
     artist: "Tampamu",
-    img: "music-18",
+    img: "music-34",
     src: "music-34"
   },
    {
     name: "Erni Djohan",
     artist: "Kau Selalu Dihatiku",
-    img: "music-18",
+    img: "music-35",
     src: "music-35"
   },
    {
     name: "Tetty Kadi",
     artist: "Teringat Selalu",
-    img: "music-3",
+    img: "music-36",
     src: "music-36"
   },
   {
     name: "Erni Djohan",
     artist: "Mutiara Jangan Hilang",
-    img: "music-18",
+    img: "music-37",
     src: "music-37"
   },
   {
     name: "Ratih Purwasih",
     artist: "Antara Benci Dan Rindu",
-    img: "music-18",
+    img: "music-38",
     src: "music-38"
   },
   {
     name: "Ratih Purwasih",
     artist: "Kau Tercipta Bukan Untukku",
-    img: "music-18",
+    img: "music-39",
     src: "music-39"
   },
   {
     name: "Voodo",
     artist: "Salam Untuk Dia",
-    img: "music-18",
+    img: "music-40",
     src: "music-40"
   },
   
@@ -259,6 +259,7 @@ let allMusic = [
   //   src: "music name here - remember img must be in .mp3 formate and it's inside the songs folder of this project folder"
   // }
 ];
+
 
 
 
