@@ -150,9 +150,105 @@ let allMusic = [
   },
 {
     name: "Sendiri Lagi",
-    artist: "BLINK ",
+    artist: "BLINK",
     img: "music-20",
     src: "music-20"
+  },
+  {
+    name: "Andrey Taulany",
+    artist: "Cintailah istanaku",
+    img: "music-20",
+    src: "music-25"
+  },
+  {
+    name: "Ornito",
+    artist: "Segala Bayangamu",
+    img: "music-18",
+    src: "music-26"
+  },
+  {
+    name: "Yangseku",
+    artist: "Pujaan Hati",
+    img: "music-15",
+    src: "music-27"
+  },
+   {
+    name: "Caffeine",
+    artist: "Hidupku Kan Damaikan Hatimu",
+    img: "music-18",
+    src: "music-28"
+  },
+   {
+    name: "Second Civil",
+    artist: "Aku,Kau Dan Kenanganku",
+    img: "music-20",
+    src: "music-29"
+  },
+   {
+    name: "Andy Liany",
+    artist: "Sanggupkah",
+    img: "music-3",
+    src: "music-30"
+  },
+   {
+    name: "Voodo",
+    artist: "Bungaku Hilang",
+    img: "music-2",
+    src: "music-31"
+  },
+   {
+    name: "Sheila Majid",
+    artist: "Sinara",
+    img: "music-3",
+    src: "music-32"
+  },
+   {
+    name: "Sheila Majid",
+    artist: "Dia",
+    img: "music-18",
+    src: "music-33"
+  },
+   {
+    name: "Tetty Kadi",
+    artist: "Tampamu",
+    img: "music-18",
+    src: "music-34"
+  },
+   {
+    name: "Erni Djohan",
+    artist: "Kau Selalu Dihatiku",
+    img: "music-18",
+    src: "music-35"
+  },
+   {
+    name: "Tetty Kadi",
+    artist: "Teringat Selalu",
+    img: "music-3",
+    src: "music-36"
+  },
+  {
+    name: "Erni Djohan",
+    artist: "Mutiara Jangan Hilang",
+    img: "music-18",
+    src: "music-37"
+  },
+  {
+    name: "Ratih Purwasih",
+    artist: "Antara Benci Dan Rindu",
+    img: "music-18",
+    src: "music-38"
+  },
+  {
+    name: "Ratih Purwasih",
+    artist: "Kau Tercipta Bukan Untukku",
+    img: "music-18",
+    src: "music-39"
+  },
+  {
+    name: "Voodo",
+    artist: "Salam Untuk Dia",
+    img: "music-18",
+    src: "music-40"
   },
   
   // like this paste it and remember to give comma after ending of this bracket }
@@ -163,5 +259,6 @@ let allMusic = [
   //   src: "music name here - remember img must be in .mp3 formate and it's inside the songs folder of this project folder"
   // }
 ];
+
 
 
