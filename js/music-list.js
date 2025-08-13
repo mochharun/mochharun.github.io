@@ -154,30 +154,7 @@ let allMusic = [
     img: "music-20",
     src: "music-20"
   },
-  {
-    name: "Sendiri Lagi",
-    artist: "BLINK ",
-    img: "music-20",
-    src: "music-21"
-  },
-  {
-    name: "Sendiri Lagi",
-    artist: "BLINK ",
-    img: "music-20",
-    src: "music-22"
-  },
-  {
-    name: "Sendiri Lagi",
-    artist: "BLINK ",
-    img: "music-20",
-    src: "music-23"
-  },
-  {
-    name: "Lagu 24",
-    artist: "BLINK ",
-    img: "music-20",
-    src: "music-24"
-  },
+  
   // like this paste it and remember to give comma after ending of this bracket }
   // {
   //   name: "Here is the music name",
@@ -186,4 +163,5 @@ let allMusic = [
   //   src: "music name here - remember img must be in .mp3 formate and it's inside the songs folder of this project folder"
   // }
 ];
+
 
